@@ -1,2 +1,2 @@
-# techdegree-project-1
- techdegree project 1 (tanuki)
+# Techdegree-Project-1
+ Techdegree Project 1 (Tanuki)
